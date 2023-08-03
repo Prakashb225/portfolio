@@ -7,12 +7,19 @@ const Footer = () => {
       <div className="w-full h-full flex flex-col gap-8">
         <div className="flex gap-4">
           
-          <span className="bannerIcon">
-            <FaGithub />
-          </span>
-          <span className="bannerIcon">
-            <FaLinkedinIn />
-          </span>
+        <span className="bannerIcon"><a
+   target="_blank"
+   rel="noreferrer"
+   href='https://github.com/Prakashb225'>
+                    <FaGithub /></a>
+                  </span>
+          <span className="bannerIcon"> <a
+   target="_blank"
+   rel="noreferrer"
+   href='https://www.linkedin.com/in/prakash-b-123240201'>
+
+              <FaLinkedinIn/></a>
+            </span>
         </div>
       </div>
       <div className="w-full h-full">

@@ -10,11 +10,18 @@ const Media = () => {
           </h2>
           <div className="flex gap-4">
             
-            <span className="bannerIcon">
-              <FaLinkedinIn />
+            <span className="bannerIcon"> <a
+   target="_blank"
+   rel="noreferrer"
+   href='https://www.linkedin.com/in/prakash-b-123240201'>
+
+              <FaLinkedinIn/></a>
             </span>
-            <span className="bannerIcon">
-                    <FaGithub/>
+            <span className="bannerIcon"><a
+   target="_blank"
+   rel="noreferrer"
+   href='https://github.com/Prakashb225'>
+                    <FaGithub /></a>
                   </span>
           </div>
         </div>
