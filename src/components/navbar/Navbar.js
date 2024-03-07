@@ -69,7 +69,7 @@ const Navbar = () => {
                 <div className="flex gap-4">
                   
                   <span className="bannerIcon">
-                    <FaLinkedinIn  href="https://w3codegenerator.com" target="_blank"/>
+                    <FaLinkedinIn  />
                   </span>
                   <span className="bannerIcon">
                     <FaGithub/>

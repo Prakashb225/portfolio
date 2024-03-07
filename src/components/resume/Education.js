@@ -17,8 +17,8 @@ const Education = () => {
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="BE in Computer Science"
-            subTitle="University College Of Engineering Kanchipuram(2021-24)"
-            result="7.8/10"
+            subTitle="University College Of Engineering Kanchipuram(2020-24)"
+            result="8.2/10"
             des="The training provided by universities in order to prepare people to work in various sectors  or areas of culture."
           />
           <ResumeCard

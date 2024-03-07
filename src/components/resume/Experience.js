@@ -11,13 +11,13 @@ const Experience = () => {
     >
       <div>
         <div className="flex ">
-          <p className="text-sm text-designColor tracking-[4px]">2022</p>
+          <p className="text-sm text-designColor tracking-[4px]"></p>
           <h2 className="text-4xl font-bold">Job Experience</h2>
         </div>
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col ">
           <ResumeCard
             title=" Software Developer intern"
-            subTitle="SAG CORPS- (2022- Present)"
+            subTitle="SAG CORPS"
             result="KANCHIPURAM"
             des="Done several task during my internship. Employer care deeply about their teams and the people who make them up."
           />
