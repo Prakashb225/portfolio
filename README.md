@@ -1,5 +1,5 @@
 Live Site At : 
-https://app.netlify.com/sites/prakashportfolioprofile/deploys/65e969aa3c57e800083aae0f
+https://deploy-preview-1--prakashportfolioprofile.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
